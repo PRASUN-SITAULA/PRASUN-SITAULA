@@ -6,11 +6,11 @@ Full Stack Developer
 
 * 🌍  I'm based in Kathmandu
 * ✉️  You can contact me at [psitaula209@gmail.com](mailto:psitaula209@gmail.com)
-* 🧠  I'm learning NodeJS
+* 🧠  I'm learning Spring Boot
 
 ### Skills
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,materialui,bootstrap,django,git,postman" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,postgres,docker,kubernetes,django,git,postman" />
 </p>
 
 ### Socials

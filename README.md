@@ -6,11 +6,11 @@ Full Stack Developer
 
 * 🌍  I'm based in Kathmandu
 * ✉️  You can contact me at [psitaula209@gmail.com](mailto:psitaula209@gmail.com)
-* 🧠  I'm learning Spring Boot
+* 🧠  I'm learning Golang
 
 ### Skills
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,postgres,docker,kubernetes,django,git,postman" />
+    <img src="https://skillicons.dev/icons?i=nestjs,nextjs,react,nodejs,pnpm,tailwind,postgres,docker,kubernetes,django,git,ubuntu" />
 </p>
 
 ### Socials
@@ -27,5 +27,3 @@ Full Stack Developer
 [![](https://raw.githubusercontent.com/PRASUN-SITAULA/PRASUN-SITAULA/main/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)](https://github.com/PRASUN-SITAULA/)
 [![](https://raw.githubusercontent.com/PRASUN-SITAULA/PRASUN-SITAULA/main/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)](https://github.com/PRASUN-SITAULA/)
 [![](https://raw.githubusercontent.com/PRASUN-SITAULA/PRASUN-SITAULA/main/profile-summary-card-output/midnight_purple/3-stats.svg)](https://github.com/PRASUN-SITAULA/)
-
-
